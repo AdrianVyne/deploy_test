@@ -13,6 +13,7 @@ export default defineConfig({
                 "resources/js/app.js",
             ],
             refresh: true,
+            https: true, // Add this line to force HTTPS
         }),
         react(),
     ],
