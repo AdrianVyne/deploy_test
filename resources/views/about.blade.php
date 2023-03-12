@@ -6,8 +6,7 @@
     @include("layouts/head")
 
     <title>Document</title>
-    @viteReactRefresh
-        @vite('resources/js/app.jsx')
+
 </head>
    
 <body>
