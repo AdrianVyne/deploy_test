@@ -13,7 +13,7 @@
     "file": "assets/app-a6d2e222.js",
     "isEntry": true,
     "src": "resources/js/app.js"
-  }
+  },
   "resources/js/app.jsx": {
     "file": "assets/app-jsx-12345678.js",
     "isEntry": true,
