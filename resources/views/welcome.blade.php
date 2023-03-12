@@ -6,7 +6,7 @@
         @include("layouts/head")
         <title>Laravel 10 Vite with React</title>
         @viteReactRefresh
-        @vite('../resources/js/app.jsx')
+        @vite('resources/js/app.jsx')
     </head>
     <body>
     @include("layouts/navbar-user")
