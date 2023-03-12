@@ -12,6 +12,6 @@
     @include("layouts/navbar-user")
      <div id="app"></div>
      <p>in essence this website runs through php with the laravel framework with vite and react.js </p>
-     <p>the wepage is updated(1)</p>
+     <p>the wepage is updated(2)</p>
     </body>
 </html>
