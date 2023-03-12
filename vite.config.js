@@ -10,11 +10,7 @@ export default defineConfig({
     // },
     plugins: [
         laravel({
-            input: [
-                "resources/css/test.css",
-                "resources/css/app.css",
-                "resources/js/app.js",
-            ],
+            input: ["resources/js/app.js"],
             refresh: true,
             https: true, // Add this line to force HTTPS
         }),
