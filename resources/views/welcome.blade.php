@@ -11,6 +11,6 @@
     <body>
     @include("layouts/navbar-user")
      <div id="app"></div>
-     <p>in essence this website is </p>
+     <p>in essence this website is runs through php with the laravel framework with vite and react.js </p>
     </body>
 </html>
